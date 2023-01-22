@@ -1,0 +1,20 @@
+{
+  "name": "typescript-for-me",
+  "version": "1.0.0",
+  "description": "The comprehensive, easy-to-use, well organized and practical based typescript course for beginners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js4-me/typescript-for-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/js4-me/typescript-for-me/issues"
+  },
+  "homepage": "https://github.com/js4-me/typescript-for-me#readme"
+}

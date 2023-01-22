@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/js4-me/typescript-for-me/issues"
   },
-  "homepage": "https://github.com/js4-me/typescript-for-me#readme"
+  "homepage": "https://github.com/js4-me/typescript-for-me#readme",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
 }
